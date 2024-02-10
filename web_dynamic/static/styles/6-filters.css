@@ -18,6 +18,7 @@ button {
     top: 15%;
     right: 30px;
 }
+
 button:hover {
     opacity: 0.9;
 }
@@ -35,11 +36,15 @@ button:hover {
     margin-bottom: 0;
     font-weight: 600;
 }
+
 .filters h4 {
     margin-left: 15%;
     margin-top: 0;
     font-weight: 400;
     font-size: 14px;
+    /* overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; */
 }
 .locations {
     height: 100%;
