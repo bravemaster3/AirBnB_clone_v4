@@ -42,9 +42,7 @@ button:hover {
     margin-top: 0;
     font-weight: 400;
     font-size: 14px;
-    /* overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap; */
+
 }
 .locations {
     height: 100%;
@@ -107,6 +105,20 @@ button:hover {
     visibility: visible;
 }
 
-.amenities input[type="checkbox"] {
+/* .amenities input[type="checkbox"] {
     margin-right: 10px;
 }
+
+.filters h2 .locations [type="checkbox"] {
+    margin-right: 10px;
+}
+
+.locations [type="checkbox"] {
+    margin-right: 10px;
+} */
+.popover ul li input[type="checkbox"] {
+    margin-right: 10px;
+}
+/* .popover h2 input[type="checkbox"] {
+    margin-right: 100px;
+} */
